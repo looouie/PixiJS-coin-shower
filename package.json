@@ -1,0 +1,15 @@
+{
+  "name": "pixijs-coin-shower-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server ./"
+  },
+  "author": "Louie",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
